@@ -98,3 +98,55 @@
 2021-01-31 19:01:33.0446 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.7.12472. Product version: 4.7.7+3755739d37c1ec92bac4de2cefad68a0f5ea7ec1. GlobalAssemblyCache: False
 2021-01-31 19:01:33.6357 Info AppDomain Shutting down. Logger closing...
 2021-01-31 19:01:33.6414 Info Logger has been shut down.
+2021-01-31 21:18:58.1710 Info Message Template Auto Format enabled
+2021-01-31 21:18:58.2161 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-31 21:18:58.2924 Info Adding target FileTarget(Name=allfile)
+2021-01-31 21:18:58.3013 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-31 21:18:58.3352 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\ВладиславЗиновьев\Documents\Task_1\WebApp\bin\Debug\net5.0\NLog.config
+2021-01-31 21:18:58.3572 Info Configuration initialized.
+2021-01-31 21:18:58.3572 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.7.12472. Product version: 4.7.7+3755739d37c1ec92bac4de2cefad68a0f5ea7ec1. GlobalAssemblyCache: False
+2021-01-31 21:21:16.1332 Info Message Template Auto Format enabled
+2021-01-31 21:21:16.1391 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-31 21:21:16.1774 Info Adding target FileTarget(Name=allfile)
+2021-01-31 21:21:16.1774 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-31 21:21:16.2020 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\ВладиславЗиновьев\Documents\Task_1\WebApp\bin\Debug\net5.0\NLog.config
+2021-01-31 21:21:16.2176 Info Configuration initialized.
+2021-01-31 21:21:16.2176 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.7.12472. Product version: 4.7.7+3755739d37c1ec92bac4de2cefad68a0f5ea7ec1. GlobalAssemblyCache: False
+2021-01-31 21:21:16.9852 Info AppDomain Shutting down. Logger closing...
+2021-01-31 21:21:16.9852 Info Logger has been shut down.
+2021-01-31 21:43:26.3504 Info Message Template Auto Format enabled
+2021-01-31 21:43:26.3598 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-31 21:43:26.4184 Info Adding target FileTarget(Name=allfile)
+2021-01-31 21:43:26.4213 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-31 21:43:26.4472 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\ВладиславЗиновьев\Documents\Task_1\WebApp\bin\Debug\net5.0\NLog.config
+2021-01-31 21:43:26.4674 Info Configuration initialized.
+2021-01-31 21:43:26.4674 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.7.12472. Product version: 4.7.7+3755739d37c1ec92bac4de2cefad68a0f5ea7ec1. GlobalAssemblyCache: False
+2021-01-31 21:43:27.9558 Info AppDomain Shutting down. Logger closing...
+2021-01-31 21:43:27.9677 Info Logger has been shut down.
+2021-01-31 21:43:57.3530 Info Message Template Auto Format enabled
+2021-01-31 21:43:57.3584 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-31 21:43:57.3977 Info Adding target FileTarget(Name=allfile)
+2021-01-31 21:43:57.3977 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-31 21:43:57.4214 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\ВладиславЗиновьев\Documents\Task_1\WebApp\bin\Debug\net5.0\NLog.config
+2021-01-31 21:43:57.4358 Info Configuration initialized.
+2021-01-31 21:43:57.4358 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.7.12472. Product version: 4.7.7+3755739d37c1ec92bac4de2cefad68a0f5ea7ec1. GlobalAssemblyCache: False
+2021-01-31 21:43:58.0653 Info AppDomain Shutting down. Logger closing...
+2021-01-31 21:43:58.0754 Info Logger has been shut down.
+2021-01-31 21:44:05.7609 Info Message Template Auto Format enabled
+2021-01-31 21:44:05.7679 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-31 21:44:05.8138 Info Adding target FileTarget(Name=allfile)
+2021-01-31 21:44:05.8138 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-31 21:44:05.8446 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\ВладиславЗиновьев\Documents\Task_1\WebApp\bin\Debug\net5.0\NLog.config
+2021-01-31 21:44:05.8664 Info Configuration initialized.
+2021-01-31 21:44:05.8664 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.7.12472. Product version: 4.7.7+3755739d37c1ec92bac4de2cefad68a0f5ea7ec1. GlobalAssemblyCache: False
+2021-01-31 21:44:06.6787 Info AppDomain Shutting down. Logger closing...
+2021-01-31 21:44:06.6919 Info Logger has been shut down.
+2021-01-31 21:44:41.1749 Info Message Template Auto Format enabled
+2021-01-31 21:44:41.1749 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-31 21:44:41.2223 Info Adding target FileTarget(Name=allfile)
+2021-01-31 21:44:41.2223 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-31 21:44:41.2474 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\ВладиславЗиновьев\Documents\Task_1\WebApp\bin\Debug\net5.0\NLog.config
+2021-01-31 21:44:41.2641 Info Configuration initialized.
+2021-01-31 21:44:41.2641 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.7.12472. Product version: 4.7.7+3755739d37c1ec92bac4de2cefad68a0f5ea7ec1. GlobalAssemblyCache: False
+2021-01-31 21:44:42.2256 Info AppDomain Shutting down. Logger closing...
+2021-01-31 21:44:42.2353 Info Logger has been shut down.
