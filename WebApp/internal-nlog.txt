@@ -1,0 +1,100 @@
+2021-01-31 18:36:34.2430 Info Message Template Auto Format enabled
+2021-01-31 18:36:34.2625 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-31 18:36:34.2944 Info Adding target FileTarget(Name=allfile)
+2021-01-31 18:36:34.2954 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-31 18:36:34.3837 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/vladzinovev/Task_1/WebApp/bin/Debug/net5.0/NLog.config
+2021-01-31 18:36:34.3987 Info Configuration initialized.
+2021-01-31 18:36:34.3987 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.7.12472. Product version: 4.7.7+3755739d37c1ec92bac4de2cefad68a0f5ea7ec1. GlobalAssemblyCache: False
+2021-01-31 18:37:11.2304 Info Message Template Auto Format enabled
+2021-01-31 18:37:11.2502 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-31 18:37:11.2815 Info Adding target FileTarget(Name=allfile)
+2021-01-31 18:37:11.2827 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-31 18:37:11.3911 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/vladzinovev/Task_1/WebApp/bin/Debug/net5.0/NLog.config
+2021-01-31 18:37:11.4040 Info Configuration initialized.
+2021-01-31 18:37:11.4040 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.7.12472. Product version: 4.7.7+3755739d37c1ec92bac4de2cefad68a0f5ea7ec1. GlobalAssemblyCache: False
+2021-01-31 18:38:24.3580 Info Message Template Auto Format enabled
+2021-01-31 18:38:24.3756 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-31 18:38:24.4013 Info Adding target FileTarget(Name=allfile)
+2021-01-31 18:38:24.4028 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-31 18:38:24.5085 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/vladzinovev/Task_1/WebApp/bin/Debug/net5.0/NLog.config
+2021-01-31 18:38:24.5231 Info Configuration initialized.
+2021-01-31 18:38:24.5237 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.7.12472. Product version: 4.7.7+3755739d37c1ec92bac4de2cefad68a0f5ea7ec1. GlobalAssemblyCache: False
+2021-01-31 18:39:20.7848 Info Message Template Auto Format enabled
+2021-01-31 18:39:20.8026 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-31 18:39:20.8315 Info Adding target FileTarget(Name=allfile)
+2021-01-31 18:39:20.8325 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-31 18:39:20.9422 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/vladzinovev/Task_1/WebApp/bin/Debug/net5.0/NLog.config
+2021-01-31 18:39:20.9570 Info Configuration initialized.
+2021-01-31 18:39:20.9577 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.7.12472. Product version: 4.7.7+3755739d37c1ec92bac4de2cefad68a0f5ea7ec1. GlobalAssemblyCache: False
+2021-01-31 18:41:36.1000 Info Message Template Auto Format enabled
+2021-01-31 18:41:36.1176 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-31 18:41:36.1442 Info Adding target FileTarget(Name=allfile)
+2021-01-31 18:41:36.1451 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-31 18:41:36.2356 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/vladzinovev/Task_1/WebApp/bin/Debug/net5.0/NLog.config
+2021-01-31 18:41:36.2501 Info Configuration initialized.
+2021-01-31 18:41:36.2508 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.7.12472. Product version: 4.7.7+3755739d37c1ec92bac4de2cefad68a0f5ea7ec1. GlobalAssemblyCache: False
+2021-01-31 18:46:25.5158 Info Message Template Auto Format enabled
+2021-01-31 18:46:25.5345 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-31 18:46:25.5631 Info Adding target FileTarget(Name=allfile)
+2021-01-31 18:46:25.5641 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-31 18:46:25.6725 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/vladzinovev/Task_1/WebApp/bin/Debug/net5.0/NLog.config
+2021-01-31 18:46:25.6841 Info Configuration initialized.
+2021-01-31 18:46:25.6847 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.7.12472. Product version: 4.7.7+3755739d37c1ec92bac4de2cefad68a0f5ea7ec1. GlobalAssemblyCache: False
+2021-01-31 18:49:14.7214 Info Message Template Auto Format enabled
+2021-01-31 18:49:14.7416 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-31 18:49:14.7713 Info Adding target FileTarget(Name=allfile)
+2021-01-31 18:49:14.7726 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-31 18:49:14.8623 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/vladzinovev/Task_1/WebApp/bin/Debug/net5.0/NLog.config
+2021-01-31 18:49:14.8770 Info Configuration initialized.
+2021-01-31 18:49:14.8770 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.7.12472. Product version: 4.7.7+3755739d37c1ec92bac4de2cefad68a0f5ea7ec1. GlobalAssemblyCache: False
+2021-01-31 18:50:31.7046 Info Message Template Auto Format enabled
+2021-01-31 18:50:31.7252 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-31 18:50:31.7533 Info Adding target FileTarget(Name=allfile)
+2021-01-31 18:50:31.7543 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-31 18:50:31.8428 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/vladzinovev/Task_1/WebApp/bin/Debug/net5.0/NLog.config
+2021-01-31 18:50:31.8571 Info Configuration initialized.
+2021-01-31 18:50:31.8571 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.7.12472. Product version: 4.7.7+3755739d37c1ec92bac4de2cefad68a0f5ea7ec1. GlobalAssemblyCache: False
+2021-01-31 18:54:03.3102 Info Configuring from an XML element in /Users/vladzinovev/Task_1/WebApp/bin/Debug/net5.0/nlog.config...
+2021-01-31 18:54:03.3104 Info Message Template Auto Format enabled
+2021-01-31 18:54:03.3104 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-31 18:54:03.3117 Info Adding target FileTarget(Name=allfile)
+2021-01-31 18:54:03.3117 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-31 18:54:03.3126 Info Closing old configuration.
+2021-01-31 18:54:03.3897 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/vladzinovev/Task_1/WebApp/bin/Debug/net5.0/nlog.config
+2021-01-31 18:57:17.7883 Info Message Template Auto Format enabled
+2021-01-31 18:57:17.8082 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-31 18:57:17.8379 Info Adding target FileTarget(Name=allfile)
+2021-01-31 18:57:17.8390 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-31 18:57:17.9235 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/vladzinovev/Task_1/WebApp/bin/Debug/net5.0/NLog.config
+2021-01-31 18:57:17.9378 Info Configuration initialized.
+2021-01-31 18:57:17.9385 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.7.12472. Product version: 4.7.7+3755739d37c1ec92bac4de2cefad68a0f5ea7ec1. GlobalAssemblyCache: False
+2021-01-31 18:58:38.3451 Info Message Template Auto Format enabled
+2021-01-31 18:58:38.3655 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-31 18:58:38.3939 Info Adding target FileTarget(Name=allfile)
+2021-01-31 18:58:38.3949 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-31 18:58:38.4832 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/vladzinovev/Task_1/WebApp/bin/Debug/net5.0/NLog.config
+2021-01-31 18:58:38.4973 Info Configuration initialized.
+2021-01-31 18:58:38.4973 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.7.12472. Product version: 4.7.7+3755739d37c1ec92bac4de2cefad68a0f5ea7ec1. GlobalAssemblyCache: False
+2021-01-31 18:59:07.1958 Info Message Template Auto Format enabled
+2021-01-31 18:59:07.2129 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-31 18:59:07.2404 Info Adding target FileTarget(Name=allfile)
+2021-01-31 18:59:07.2415 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-31 18:59:07.3459 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/vladzinovev/Task_1/WebApp/bin/Debug/net5.0/NLog.config
+2021-01-31 18:59:07.3595 Info Configuration initialized.
+2021-01-31 18:59:07.3595 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.7.12472. Product version: 4.7.7+3755739d37c1ec92bac4de2cefad68a0f5ea7ec1. GlobalAssemblyCache: False
+2021-01-31 18:59:52.6883 Info Message Template Auto Format enabled
+2021-01-31 18:59:52.7082 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-31 18:59:52.7384 Info Adding target FileTarget(Name=allfile)
+2021-01-31 18:59:52.7396 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-31 18:59:52.8316 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/vladzinovev/Task_1/WebApp/bin/Debug/net5.0/NLog.config
+2021-01-31 18:59:52.8461 Info Configuration initialized.
+2021-01-31 18:59:52.8468 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.7.12472. Product version: 4.7.7+3755739d37c1ec92bac4de2cefad68a0f5ea7ec1. GlobalAssemblyCache: False
+2021-01-31 19:01:32.9193 Info Message Template Auto Format enabled
+2021-01-31 19:01:32.9249 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-31 19:01:32.9525 Info Adding target FileTarget(Name=allfile)
+2021-01-31 19:01:32.9534 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-31 19:01:33.0332 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/vladzinovev/Task_1/WebApp/bin/Debug/net5.0/NLog.config
+2021-01-31 19:01:33.0446 Info Configuration initialized.
+2021-01-31 19:01:33.0446 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.7.12472. Product version: 4.7.7+3755739d37c1ec92bac4de2cefad68a0f5ea7ec1. GlobalAssemblyCache: False
+2021-01-31 19:01:33.6357 Info AppDomain Shutting down. Logger closing...
+2021-01-31 19:01:33.6414 Info Logger has been shut down.

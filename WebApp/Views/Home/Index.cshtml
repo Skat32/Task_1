@@ -1,0 +1,82 @@
+﻿@using Logic
+@using Models.Enums
+@model Models.ViewModels.HomeViewModel
+
+@{
+    ViewData["Title"] = "Создание пользователь";
+}
+
+<style>
+    .form-content{
+        display: flex;
+        justify-content: flex-end;
+        margin-left: 30px;
+    }
+    .margin-right{
+        margin-right: 10px;
+        }
+</style>
+
+@section scripts{
+   <partial name="_ValidationScriptsPartial" />
+}
+<h2 class="mt-5" style="margin-left: 40px">Создание пользователь</h2>
+<div class="container mt-3">
+   @using (Html.BeginForm("Save", "Home", FormMethod.Post))
+   {
+       <div class="col-md-4 deposit-block-data">
+
+           <div class="col">
+               <label class="label-text">ФИО</label>
+               <div>
+                    <input type="text" asp-for="@Model.FullName" name="FullName" class="form-control">
+                    <span asp-validation-for="@Model.FullName" class="text-danger"></span>    
+               </div>
+           </div>
+           
+
+           <div class="col">
+               <label class="label-text">Мобильный телефон</label>
+               <input type="text" asp-for="@Model.Phone" name="Phone" class="form-control">
+                <span asp-validation-for="@Model.Phone" class="text-danger"></span>
+           </div>
+
+           <div class="col">
+               <label class="label-text">Email</label>
+               <div>
+                    <input type="text" asp-for="@Model.Email" name="Email" class="form-control">
+                    <span asp-validation-for="@Model.Email" class="text-danger"></span>    
+               </div>
+           </div>
+
+           <br/>
+           <div class="col">
+               <label class="label-text">Город</label>
+               @Html.DropDownListFor(value => value.City, typeof(CitiesEnum).GetForDropList().Select(x => new SelectListItem(x.Key, x.Value.ToString())), "Город", new {@class = "form-control", name = "Model.City"})
+               <span asp-validation-for="@Model.City" class="text-danger"></span>   
+           </div>
+       </div>
+       <br/>
+       
+       @if (Model?.ErrorMessage != null)
+       {
+           <div>
+               <p style="color: red; margin-left: 40px">@Model.ErrorMessage</p>
+           </div>
+       }
+       else if(Model?.Email != default)
+       {
+           <div>
+               <p style="color: green; margin-left: 40px">Данные успешно сохранены</p>
+           </div>  
+       }
+       
+       <div class="row justify-content-start align-items-center">
+           <div class="row col form-content">
+               <div class="input-group-append margin-right">
+                   <button class="btn btn-primary" asp-action="Save">Создать</button>
+               </div>
+           </div>
+       </div>
+   }
+</div>
